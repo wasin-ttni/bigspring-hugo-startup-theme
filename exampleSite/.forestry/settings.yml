@@ -53,6 +53,8 @@ sections:
 - type: document
   path: exampleSite/config.toml
   label: Configuration
+- type: heading
+  label: Test
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
